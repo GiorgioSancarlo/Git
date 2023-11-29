@@ -1,0 +1,14 @@
+# Regole base utilizzo Git
+
+- **Git config --global user.name "IlTuoNome"**: Imposta il tuo nome utente.
+- **Git config --global user.email "tua@email.com"**: Imposta la tua email.
+- **Git log**: Mostra la lista dei commit locali.
+- **Git status**: Mostra lo stato dei file nell'area di lavoro in locale.
+- **Git diff _nomefile_**: Mostra le modifiche del file deiderato.
+- **Git remote add origin + _link github_**: Collega il file .md alla repository su github.
+- **Git init**: Inizializza il mio sistema di repository.
+- **Git add _nomefile_**: Traccia uno o più file.
+- **Git commit -m "_nomeetichetta_"**: Imposta un'etichetta al file.
+- **Git push origin master/main**: Carica le modifiche effettuate.
+- **Git reset**: Resetta alla versione desiderata copiando la stringa alfanumerica (hash) del sudetto livello. -**Git checkout _nomefile_**: Scarta le modifiche che abbiamo apportato.
+- **Q**: Quit -**Clear**: Pulisce il terminale. -**Touch _nomefile_.md**: Crea un nuovo file md. -**mkdir _nomecartella_**: Crea nuova cartella. -**cd _nomefile_: Apri file. -**cd ..\*\*: Torna indietro.
